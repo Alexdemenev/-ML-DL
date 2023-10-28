@@ -8,7 +8,7 @@
 
 
 
-# [Проект 2. Predict car prices using LightAutoML framework]((https://github.com/Alexdemenev/Optimization-ML-models/blob/main/AutoML_Sber_HW2_ipynb_.ipynb))
+# [Проект 2. Predict car prices using LightAutoML framework](https://github.com/Alexdemenev/Optimization-ML-models/blob/main/AutoML_Sber_HW2_ipynb_.ipynb)
 
 ## Задача
 
